@@ -1,0 +1,4 @@
+Error logs for my reference. Not required for project
+
+1) Html file was missing the title element
+2) App.js file did not ...
